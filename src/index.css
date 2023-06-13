@@ -1,0 +1,22 @@
+.container{
+  max-width: 1340px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: 0 auto;
+  /* background-color: gray; */
+}
+.row{
+  margin-top: 10px;
+  padding: 10px;
+}
+.card{
+  margin-right: 15px;
+  padding: 10px;
+}
+.card-img img{
+  width: 100%;
+}
+.btn-c{
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
